@@ -5,7 +5,7 @@
 
 <!-- Typing headline -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=00FFD1&center=true&vCenter=true&width=760&lines=Cybersecurity+Enthusiast+%7C+SOC+Analyst+in+Training;Assistant+Professor+%40+ATME+College+of+Engineering;ML+%2F+DL+%7C+Penetration+Testing+%7C+Threat+Detection;MCA+Graduate+%E2%80%94+PES+College+of+Engineering" width="100%" style="max-width:860px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=00FFD1&center=true&vCenter=true&width=760&Assistant+Professor+%40+ATME+College+of+Engineering;ML+%2F+DL+%7C+Penetration+Testing+%7C+Threat+Detection;MCA+Graduate+%E2%80%94+PES+College+of+Engineering" width="100%" style="max-width:860px;" />
 </h3>
 
 <!-- Quick KPI chips -->
