@@ -694,7 +694,7 @@ footer span { color: var(--cyan); }
   <div class="hero-glitch-wrapper">
     <h1 class="hero-name">GOWTHAM MG</h1>
   </div>
-  <p class="hero-tagline">Assistant Professor &nbsp;|&nbsp; AI/ML &nbsp;|&nbsp; Cybersecurity</p>
+ <p class="hero-tagline">Assistant Professor &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; AI/ML</p>
   <p class="hero-sub">MCA Graduate · PES College of Engineering · 7.95 CGPA</p>
 
   <div class="hero-badges">
